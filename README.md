@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/thorduri/knobs"
+	"github.com/thorduri/pushover"
 )
 
 const exampleToken = "KzGDORePK8gMaC0QOYAMyEEuzJnyUi"
